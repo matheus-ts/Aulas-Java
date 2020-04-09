@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d71c728b-ec77-467a-b4f6-a63424600fe8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aGSs2pjGP5OIH1WbU3x0dr0MRb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.TesteCinema">
+    <configuration name="TesteCinema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programaCinema.TesteCinema" />
+      <module name="lista-07-resolucao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programaCinema.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteEmpregado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programaEmpregado.TesteEmpregado" />
+      <module name="lista-07-resolucao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programaEmpregado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteTermometro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programaTermometro.TesteTermometro" />
+      <module name="lista-07-resolucao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programaTermometro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteCinema" />
+        <item itemvalue="Application.TesteTermometro" />
+        <item itemvalue="Application.TesteEmpregado" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d71c728b-ec77-467a-b4f6-a63424600fe8" name="Default Changelist" comment="" />
+      <created>1586360640770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586360640770</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="43" key="#Project_Structure" timestamp="1586360668676">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="43" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1586360668676" />
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1586391907625">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1586391907625" />
+    <state width="1306" height="169" key="GridCell.Tab.0.bottom" timestamp="1586450294635">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586450294635" />
+    <state width="1306" height="169" key="GridCell.Tab.0.center" timestamp="1586450294634">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586450294634" />
+    <state width="1306" height="169" key="GridCell.Tab.0.left" timestamp="1586450294634">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586450294634" />
+    <state width="1306" height="169" key="GridCell.Tab.0.right" timestamp="1586450294634">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586450294634" />
+    <state x="100" y="100" width="1166" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1586452141711">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="100" y="100" width="1166" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1586452141711" />
+    <state x="359" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1586452099609">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="359" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1586452099609" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1586364253797">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/0.0.1366.768@0.0.1366.768" timestamp="1586364253797" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586449648654">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1586449648654" />
+  </component>
+</project>
